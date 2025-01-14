@@ -49,15 +49,16 @@ Este repositório é um guia para quem deseja entender melhor os padrões de pro
 ```plaintext
 📦 design-patterns
 ├── 📁 criacionais
-│   ├── Singleton.java
-│   ├── Builder.java
-│   └── FactoryMethod.java
+│   ├── Singleton
+│   ├── Builder
+│   └── FactoryMethod
 ├── 📁 estruturais
-│   ├── Adapter.java
-│   ├── Composite.java
-│   └── Decorator.java
+|   ├── Proxy
+│   ├── Adapter
+│   ├── Composite
+│   └── Decorator
 ├── 📁 comportamentais
-│   ├── ChainOfResponsibility.java
-│   ├── Observer.java
-│   └── State.java
+│   ├── ChainOfResponsibility
+│   ├── Observer
+│   └── State
 └── README.md
